@@ -1,3 +1,5 @@
+
+-- create DATABASE ml;
 create table utilisateurs (
     id int primary key auto_increment,
     nom varchar(255) not null,
